@@ -1,0 +1,24 @@
+Changes in this mod.
+
+Team bonuses:
+	Iber: 20% to 10%
+	Rome: 20% to 10%
+	Kush: 20% to 10%
+Technologies:
+	Loom: 50% to 100%
+	Unlock champion units: 1000M and 90s to 300M and 120s.
+	Armor plating: 500W, 250M to 300W, 150M
+	Advanced Siege: 1000W, 500M to 600W, 300M
+Citizen soldiers:
+	Slingers: 9.5P, 1C and 3.0 accuracy to 9.2P, 0.9C and 3.5 accuracy(right between skirms and archers).
+	Archers: 6P to 6.8P.
+Elephants:
+	War Elephant: 250M, 250F to 225M, 225F
+	Elephant Archer: 200F, 80W, 20M to 150F, 75W
+Champions:
+	Infantry: 125F, 75W, 100M, 20s to 90F, 75W, 30M, 15s
+	Cavalry: 250F, 100W, 100M, 30s to 150F, 90W, 45M 20s
+		Sword Cav: 250F, 100W, 100M to 150F, 80W, 55M
+Merc Champs: Black Cloaks and Fanas the same. So they're still strong P2, but will be unable to compete P3. Idk how to have P3 automatically reduce their cost, but it would be good to have their cost drop right after P3 is reached. Similar for camels, just their move speed not cost.
+	Skirmishers: 100W, 150M to 75W, 90M
+	Heavy Swords and Cardaces Hoplite: 75W, 150M to 75W, 90M

@@ -1,0 +1,7 @@
+{
+    "name": "testBalMod",
+    "version": "2.0",
+    "label": "Simple balance changes",
+    "description": "Mod to test balance changes before implementing them in base game.",
+    "dependencies": ["0ad>=0.0.23"]
+}
