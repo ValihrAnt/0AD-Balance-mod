@@ -33,4 +33,10 @@
       <death>actor/fauna/death/death_horse.xml</death>
     </SoundGroups>
   </Sound>
+  <UnitMotion>
+    <WalkSpeed op="mul">0.88</WalkSpeed>
+    <Run>
+      <Speed op="mul">0.88</Speed>
+    </Run>
+  </UnitMotion>
 </Entity>
